@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://leetcode-cn.com/problems/check-permutation-lcci/
+ */
 public class Solution {
     public boolean CheckPermutation(String s1, String s2) {
         //思路：用统计学，统计两个字符串每一个字母出现的次数，最后进行对比
