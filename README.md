@@ -1,2 +1,2 @@
-# LeetCode-
-坚持就是胜利
+# LeetCode刷题
+坚持就是胜利！
