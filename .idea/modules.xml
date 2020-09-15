@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/判定是否互为字符重排/判定是否互为字符重排.iml" filepath="$PROJECT_DIR$/判定是否互为字符重排/判定是否互为字符重排.iml" />
       <module fileurl="file://$PROJECT_DIR$/周赛1/周赛1.iml" filepath="$PROJECT_DIR$/周赛1/周赛1.iml" />
       <module fileurl="file://$PROJECT_DIR$/回文排列/回文排列.iml" filepath="$PROJECT_DIR$/回文排列/回文排列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/字符串压缩/字符串压缩.iml" filepath="$PROJECT_DIR$/字符串压缩/字符串压缩.iml" />
     </modules>
   </component>
 </project>
