@@ -3,7 +3,7 @@
  */
 class Solution {
     public boolean oneEditAway(String first, String second) {
-        //分情况讨论
+//        分情况讨论
 //        int len1 = first.length();
 //        int len2 = second.length();
 //        if (len1 == len2){
@@ -53,7 +53,7 @@ class Solution {
 //        }
 //        return true;
 
-        //双指针法
+        //双指针法（两者时间复杂度上一致）
         int len = first.length() - second.length();
         if(len > 1 || len < -1){
             return false;
