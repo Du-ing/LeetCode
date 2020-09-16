@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.判定字符是否唯一/1.判定字符是否唯一.iml" filepath="$PROJECT_DIR$/1.判定字符是否唯一/1.判定字符是否唯一.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.判定是否互为字符重排/2.判定是否互为字符重排.iml" filepath="$PROJECT_DIR$/2.判定是否互为字符重排/2.判定是否互为字符重排.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.URL化/3.URL化.iml" filepath="$PROJECT_DIR$/3.URL化/3.URL化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.回文排列/4.回文排列.iml" filepath="$PROJECT_DIR$/4.回文排列/4.回文排列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.一次编辑/5.一次编辑.iml" filepath="$PROJECT_DIR$/5.一次编辑/5.一次编辑.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.字符串压缩/6.字符串压缩.iml" filepath="$PROJECT_DIR$/6.字符串压缩/6.字符串压缩.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.旋转矩阵/7.旋转矩阵.iml" filepath="$PROJECT_DIR$/7.旋转矩阵/7.旋转矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode刷题.iml" filepath="$PROJECT_DIR$/LeetCode刷题.iml" />
-      <module fileurl="file://$PROJECT_DIR$/URL化/URL化.iml" filepath="$PROJECT_DIR$/URL化/URL化.iml" />
-      <module fileurl="file://$PROJECT_DIR$/一次编辑/一次编辑.iml" filepath="$PROJECT_DIR$/一次编辑/一次编辑.iml" />
-      <module fileurl="file://$PROJECT_DIR$/判定字符是否唯一/判定字符是否唯一.iml" filepath="$PROJECT_DIR$/判定字符是否唯一/判定字符是否唯一.iml" />
-      <module fileurl="file://$PROJECT_DIR$/判定是否互为字符重排/判定是否互为字符重排.iml" filepath="$PROJECT_DIR$/判定是否互为字符重排/判定是否互为字符重排.iml" />
       <module fileurl="file://$PROJECT_DIR$/周赛1/周赛1.iml" filepath="$PROJECT_DIR$/周赛1/周赛1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/回文排列/回文排列.iml" filepath="$PROJECT_DIR$/回文排列/回文排列.iml" />
-      <module fileurl="file://$PROJECT_DIR$/字符串压缩/字符串压缩.iml" filepath="$PROJECT_DIR$/字符串压缩/字符串压缩.iml" />
-      <module fileurl="file://$PROJECT_DIR$/旋转矩阵/旋转矩阵.iml" filepath="$PROJECT_DIR$/旋转矩阵/旋转矩阵.iml" />
     </modules>
   </component>
 </project>
