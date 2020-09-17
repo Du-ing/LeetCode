@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/6.字符串压缩/6.字符串压缩.iml" filepath="$PROJECT_DIR$/6.字符串压缩/6.字符串压缩.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.旋转矩阵/7.旋转矩阵.iml" filepath="$PROJECT_DIR$/7.旋转矩阵/7.旋转矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.零矩阵/8.零矩阵.iml" filepath="$PROJECT_DIR$/8.零矩阵/8.零矩阵.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.字符串轮转/9.字符串轮转.iml" filepath="$PROJECT_DIR$/9.字符串轮转/9.字符串轮转.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode刷题.iml" filepath="$PROJECT_DIR$/LeetCode刷题.iml" />
       <module fileurl="file://$PROJECT_DIR$/周赛1/周赛1.iml" filepath="$PROJECT_DIR$/周赛1/周赛1.iml" />
     </modules>
