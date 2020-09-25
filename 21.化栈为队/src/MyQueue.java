@@ -1,3 +1,7 @@
+/**
+ * https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/
+ */
+
 import java.util.Stack;
 
 class MyQueue {
