@@ -1,4 +1,4 @@
-package T19栈的最小值.src; /**
+package T19栈的最小值; /**
  * https://leetcode-cn.com/problems/min-stack-lcci/
  */
 import java.util.Stack;

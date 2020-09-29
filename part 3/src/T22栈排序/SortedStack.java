@@ -1,4 +1,4 @@
-package T22栈排序.src; /**
+package T22栈排序; /**
  * https://leetcode-cn.com/problems/sort-of-stacks-lcci/
  */
 

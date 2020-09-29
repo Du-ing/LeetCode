@@ -1,4 +1,4 @@
-package T25最小高度树.src;
+package T25最小高度树;
 
 /**
  * https://leetcode-cn.com/problems/minimum-height-tree-lcci/

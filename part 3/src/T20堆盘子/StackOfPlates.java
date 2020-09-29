@@ -1,4 +1,4 @@
-package T20堆盘子.src; /**
+package T20堆盘子; /**
  * https://leetcode-cn.com/problems/stack-of-plates-lcci/
  */
 
