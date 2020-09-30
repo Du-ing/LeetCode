@@ -1,3 +1,6 @@
+/**
+ * https://leetcode-cn.com/problems/check-balance-lcci/
+ */
 package T27检查平衡性;
 
 class TreeNode {

@@ -1,4 +1,5 @@
-package T24节点间通路; /**
+package T24节点间通路;
+/**
  * https://leetcode-cn.com/problems/route-between-nodes-lcci/
  */
 
