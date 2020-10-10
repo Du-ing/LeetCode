@@ -1,7 +1,5 @@
 package T40绘制直线;
 
-import com.sun.org.apache.xerces.internal.impl.dv.xs.IntegerDV;
-
 /**
  *https://leetcode-cn.com/problems/draw-line-lcci/
  */
