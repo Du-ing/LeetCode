@@ -1,5 +1,9 @@
 package T41三步问题;
 
+/**
+ * https://leetcode-cn.com/problems/three-steps-problem-lcci/
+ */
+
 class Solution {
 
 //    private int[] list = new int[1000000];
