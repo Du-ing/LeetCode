@@ -14,7 +14,6 @@ class Solution {
             char[] chars = str.toCharArray();
             Arrays.sort(chars);
             String t = new String(chars);
-            System.out.println(t);
             if(map.containsKey(t)){
                 map.get(t).add(str);
             }else{
