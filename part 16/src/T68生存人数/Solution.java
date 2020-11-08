@@ -13,27 +13,28 @@ class Solution {
         int res = 0;
         int max = 0;
         int sum = 0;
+        int i = 0;
         int j = 0;
-        for(int i=0; i<birth.length-1;){
+        while(i < birth.length){
             int year = birth[i];
-            int num1 = 1;
-            while(true){
-                if(i < birth.length-1) i++;
+            int n1 = 0;
+            while(i < birth.length){
                 if(birth[i] > year) break;
-                num1++;
+                i++;
+                n1++;
             }
-            int num2 = 0;
-            while(true){
-                if(death[j] > year) break;
-                num2++;
+            int n2 = 0;
+            while(j < death.length){
+                if(death[j] >= year) break;
                 j++;
+                n2++;
             }
-            sum = sum + num1 - num2;
+            sum = sum + n1 - n2;
             if(sum > max){
                 max = sum;
-                res = i;
+                res = year;
             }
         }
-        return birth[res];
+        return res;
     }
 }
