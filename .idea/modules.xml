@@ -29,16 +29,18 @@
       <module fileurl="file://$PROJECT_DIR$/8.零矩阵/8.零矩阵.iml" filepath="$PROJECT_DIR$/8.零矩阵/8.零矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.字符串轮转/9.字符串轮转.iml" filepath="$PROJECT_DIR$/9.字符串轮转/9.字符串轮转.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode刷题.iml" filepath="$PROJECT_DIR$/LeetCode刷题.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 1/part 1.iml" filepath="$PROJECT_DIR$/part 1/part 1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 10/part 10.iml" filepath="$PROJECT_DIR$/part 10/part 10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 16/part 16.iml" filepath="$PROJECT_DIR$/part 16/part 16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 2/part 2.iml" filepath="$PROJECT_DIR$/part 2/part 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 3/part 3.iml" filepath="$PROJECT_DIR$/part 3/part 3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 4/part 4.iml" filepath="$PROJECT_DIR$/part 4/part 4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 5/part 5.iml" filepath="$PROJECT_DIR$/part 5/part 5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/part 8/part 8.iml" filepath="$PROJECT_DIR$/part 8/part 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 1/part 1.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 1/part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 10/part 10.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 10/part 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 16/part 16.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 16/part 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 2/part 2.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 2/part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 3/part 3.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 3/part 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 4/part 4.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 4/part 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 5/part 5.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 5/part 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/part 8/part 8.iml" filepath="$PROJECT_DIR$/程序员面试金典/part 8/part 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指offer/剑指offer.iml" filepath="$PROJECT_DIR$/剑指offer/剑指offer.iml" />
       <module fileurl="file://$PROJECT_DIR$/周赛1/周赛1.iml" filepath="$PROJECT_DIR$/周赛1/周赛1.iml" />
       <module fileurl="file://$PROJECT_DIR$/每日一题打卡/每日一题打卡.iml" filepath="$PROJECT_DIR$/每日一题打卡/每日一题打卡.iml" />
+      <module fileurl="file://$PROJECT_DIR$/程序员面试金典/程序员面试金典.iml" filepath="$PROJECT_DIR$/程序员面试金典/程序员面试金典.iml" />
     </modules>
   </component>
 </project>
