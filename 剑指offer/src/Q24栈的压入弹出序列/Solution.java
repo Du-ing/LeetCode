@@ -1,5 +1,9 @@
 package Q24栈的压入弹出序列;
 
+/**
+ * https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+ */
+
 import java.util.Stack;
 
 class Solution {
