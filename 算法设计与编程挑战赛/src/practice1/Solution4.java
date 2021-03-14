@@ -22,7 +22,7 @@ public class Solution4 {
         }
 
         for (long i = l; i <= r; i++){
-            long x = solve(k,f2) / solve(1,k) % 1000000007;
+            long x = (solve(f2) / solve(k) % 1000000007) / solve(f2 - k);
             long m = (a * f2 + b * f1) % 1000000007;
             f1 = f2;
             f2 = m;
@@ -31,9 +31,9 @@ public class Solution4 {
         System.out.println(res);
     }
 
-    public static long solve(long a, long b){
+    public static long solve(long a){
         long num = 1;
-        for (long i = a; i <= b; i++){
+        for (long i = 1; i <= a; i++){
             num = num * i % 1000000007;
         }
         return num;
